@@ -1,0 +1,27 @@
+title: Alan Newton
+description: Poetry exploring memory, travel, history, science, and the American South.
+
+theme: null
+
+markdown: kramdown
+
+collections:
+  poems:
+    output: true
+    permalink: /poems/:name/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: poems
+    values:
+      layout: poem
+
+permalink: pretty
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
