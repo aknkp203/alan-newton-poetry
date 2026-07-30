@@ -11,7 +11,9 @@ title: Home
 
 ## Recent Writing
 
-Coming soon.
+{% for poem in site.poems limit:5 %}
+- [{{ poem.title }}]({{ poem.url | relative_url }})
+{% endfor %}
 
 ---
 
