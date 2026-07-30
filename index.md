@@ -1,22 +1,28 @@
 ---
-layout: home
+layout: default
 title: Home
 ---
 
-## Welcome
+# Welcome
 
-Welcome to my collection of poems.
-
-My work explores memory, travel, science, history, humor, and the American South.
-
-Whether inspired by Guatemala, Vietnam, Alabama, Kansas, Louisiana, or the night sky, these poems ask what it means to remember, to wander, and to belong.
+*A selection of poems, essays, and stories.*
 
 ---
 
-### Featured Poem
+## Recent Writing
 
-**The Work of Others**
+Coming soon.
 
-*A meditation on mortality, astronomy, and growing older.*
+---
 
-[Read the poem →](/poems/as-i-age-the-universe-scares-me/)
+## Books
+
+My published books are available on Amazon.
+
+(We'll add your Amazon author page link here.)
+
+---
+
+## About
+
+Thank you for visiting. This site is a home for my creative writing—poems, essays, stories, and other work, both published and new.
