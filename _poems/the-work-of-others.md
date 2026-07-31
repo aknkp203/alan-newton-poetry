@@ -3,8 +3,6 @@ layout: default
 title: The Work of Others
 ---
 
-# The Work of Others
-
 As I age, the universe scares me.
 Take black holes,
 millions of bloated star-carcasses
